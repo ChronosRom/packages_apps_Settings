@@ -83,5 +83,4 @@
     <timezone id="Pacific/Auckland">Auckland</timezone>
     <timezone id="Pacific/Fiji">Fiji</timezone>
     <timezone id="Pacific/Tongatapu">Tonga</timezone>
->>>>>>> 2e39420... Revert "Get time zone names from CLDR."
 </timezones>
